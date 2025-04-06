@@ -1,0 +1,21 @@
+/* Apply background color and center all text */
+body {
+	background-color: #f0f8ff; /* Light blue background */
+	text-align: center;
+	font-family: Arial, sans-serif;
+	padding: 50px;
+}
+
+/* Style the heading */
+h1 {
+	color: #333;
+	font-size: 2.5rem;
+	margin-bottom: 20px;
+}
+
+/* Style the paragraphs */
+p {
+	color: #555;
+	font-size: 1.2rem;
+	margin: 10px 0;
+}
